@@ -8,7 +8,7 @@ This repo holds the source files for my YouTube playlist on Python Data Structur
 
 ### Introduction
 
-This playlist covers the basics of data structures and algorithms in Python. It includes tutorials on data structures like linked lists and stacks, with more topics to come!
+This playlist covers the basics of data structures and algorithms in Python. It includes tutorials on data structures like linked list, stack, queue and tree with more topics to come!
 
 ### Links
 
@@ -38,14 +38,13 @@ Many of the ideas in this playlist were inspired by the concepts and principles 
 - [x] Linked List
 - [x] Stack
 - [x] Queue
+- [x] Tree
 - [ ] Graph
-- [ ] Tree
 
 ### Todo
 
 
 - [ ] Implement a graph in Python
-- [ ] Implement a tree in Python
 
 
 ### Feedback
