@@ -37,22 +37,16 @@ Many of the ideas in this playlist were inspired by the concepts and principles 
 
 - [x] Linked List
 - [x] Stack
-- [ ] Queue
+- [x] Queue
 - [ ] Graph
 - [ ] Tree
 
 ### Todo
 
 
-- [ ] Implement a queue in Python
 - [ ] Implement a graph in Python
 - [ ] Implement a tree in Python
 
-### Done
-
-
-- [x] Linked List
-- [x] Stack
 
 ### Feedback
 
