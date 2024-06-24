@@ -24,6 +24,12 @@ class Tree:
             self._insert_into_subtree_recursive(self.root, value_to_insert)
             
     def _insert_into_subtree_recursive(self, node: Node, value_to_insert: int):
+        
+        # forgot to do this on video
+        # if the value already exists, do nothing
+        if value_to_insert == node.value:
+            return
+        
         if value_to_insert < node.value:
             if node.left is None:
                 node.left = Node(value_to_insert)
