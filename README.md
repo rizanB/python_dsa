@@ -5,6 +5,7 @@ This repo holds the source files for my YouTube playlist on Python Data Structur
 ### Table of Contents
 
 - [Introduction](#introduction)
+- [Contributing](#contributing)
 
 ### Introduction
 
@@ -25,26 +26,31 @@ Contributions are welcome If you have any suggestions or ideas for new topics, p
 
 ### Acknowledgments
 
-Many of the ideas in this playlist were inspired by the concepts and principles outlined in Data Structures: From Arrays to Priority Queues. I also love the neat aesthetics and it has helped me understand data structures way better than I used to. These are the resources that I've used for creating this playlist:
+Many of the ideas in this playlist were inspired by the concepts and principles outlined in Data Structures: From Arrays to Priority Queues. I also love the neat aesthetics and it has helped me understand data structures way better than I used to. Most illustrations I've used in the playlist are my own (designed in Figma) and so are most of the explanations. So, if you find any incorrect ones, that's on me!
+
+These are the resources that I've used for creating this playlist:
 
 - Data Structures: From Arrays to Priority Queues, by Wayne Amsbury
 - Artificial Intelligence, 3rd ed. by Stuart J. Russell and Peter Norvig (for search algorithms)
+- Geeksforgeeks.com (I like some explanations here)
 
 
 
-### Checklist
+### Data Structures
 
 
 - [x] Linked List
 - [x] Stack
 - [x] Queue
 - [x] Tree
-- [ ] Graph
+- [x] Graph
+- [ ] Hash table
 
 ### Todo
 
 
-- [ ] Implement a graph in Python
+- [ ] Implement hash table in Python
+- [ ] Add algorithms to checklist
 
 
 ### Feedback
